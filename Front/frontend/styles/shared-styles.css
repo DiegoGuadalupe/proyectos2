@@ -9,4 +9,24 @@
   margin: 0 auto;
   max-width: 250px;
 }
+body{
+  background-color: #233348;
+}
+.formulario{
 
+/*  border-radius: 10px;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #38366e;*/
+  display: flex;
+  margin-left: 670px;
+  margin-top: 200px;
+  color: blue;
+
+  width: auto;
+  height: auto;
+
+}
+.rounded-borders {
+  border-radius: 40px;
+}
